@@ -23,5 +23,6 @@ namespace BtkAkademi.Controllers
             
             return View("Feedback",model);
         }
+
     }
 }
